@@ -2,3 +2,4 @@
 !.gitignore
 !*.c
 !*/
+!learn-c-the-hard-way-lectures/*
